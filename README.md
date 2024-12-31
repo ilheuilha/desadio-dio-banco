@@ -1,19 +1,15 @@
-## Getting Started
+## DESAFIO DIO BANCO COM POO
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Realizado o desafio com a inserção de um menu interativo em que o usuario escolhe o que quer fazer.
+Ademais, não utilizamos uma classe para conta corrente e poupança pois partimos do pressuposto que o usuario queira realizar uma transferencia entre conta corrente
+e poupança de um mesmo usuário. Em outras versões utilizaremos transferencia entre contas de clientes distintos;
 
-## Folder Structure
+## Estrutura das pastas
 
-The workspace contains two folders by default, where:
+O projeto contém 2(duas) pastas padrões, onde:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- `src`: A pasta que contém as classes (fontes)
+- `lib`: A pasta contém as dependências do projeto
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
 "# desadio-dio-banco" 
